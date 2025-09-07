@@ -4,7 +4,9 @@ A powerful Streamlit-based research tool that combines OpenAI's GPT models with 
 
 ✨ Features
 
-🔍 Smart Web Search: Leverages SerpAPI for accurate, real-time search results\n
+🔍 Smart Web Search: Leverages SerpAPI for accurate, real-time search results
+
+
 🧠 AI-Powered Summarization: Uses OpenAI GPT models to extract key insights
 📊 Multiple Export Formats: Download results as PDF or Markdown
 ⚙️ Customizable Settings: Adjust number of sources and summary tone
