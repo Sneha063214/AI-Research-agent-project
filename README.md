@@ -26,3 +26,5 @@ OpenAI API Key
 SerpAPI Key 
 
 //you need to put your own api keys to run this ai researcher 
+
+//run your code using streamlit run app.py
